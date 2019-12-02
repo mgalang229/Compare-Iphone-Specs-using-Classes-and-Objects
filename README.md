@@ -2,6 +2,6 @@
 - This program compares the specifications of 3 different Iphone 11 units.
 ---
 # Sample Output 0
-<pre>
-Iphone 11 Pro Iphone 11 Pro Max Iphone 11 
-</pre>
+
+Iphone 11 Pro     Iphone 11 Pro     Max Iphone 11 
+
